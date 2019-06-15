@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image:url("../images/bg.gif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    color:white;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}

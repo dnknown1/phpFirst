@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image:url("../images/bg.gif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+.jumbotron:hover{
+    background-image:url("../images/nwbg.gif");
+    background-repeat: no-repeat;
+}
+pre{
+    color:gray;
+}
